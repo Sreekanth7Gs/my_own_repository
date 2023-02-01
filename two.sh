@@ -1,0 +1,5 @@
+nexus
+sonar
+kjenkisn
+maven
+
